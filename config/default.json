@@ -1,5 +1,5 @@
 {
   "mongoURI": "mongodb+srv://vedang:C1WbchW5ilsieEiO@devconnecter.6jfvh.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
   "jwtSecret": "mysecretkey",
-  "githubToken": "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"
+  "githubToken": "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"
 }
